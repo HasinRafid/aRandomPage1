@@ -1,8 +1,47 @@
-# React + Vite
+# 🌐 Vite + React + Tailwind Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A random page built with **Vite**, **React**, and **TailwindCSS**.  
+It is deployed live on GitHub Pages:  
+👉 [Visit Website](https://hasinrafid.github.io/aRandomPage1/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🎨 Styled with TailwindCSS
+- 📱 Fully responsive design
+- 🌍 Deployed on GitHub Pages
+
+---
+
+## 📸 Screenshots
+
+### 🖥 desktop view
+
+![page](/overviewImgs/Screenshot_627.png)
+
+### 📱 mobile view
+
+![page](/overviewImgs/Screenshot_620.png)
+
+![page](/overviewImgs/Screenshot_621.png)
+
+![page](/overviewImgs/Screenshot_622.png)
+
+---
+
+## ⚙️ Installation & Setup
+Clone the repo and run locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/HasinRafid/aRandomPage1.git
+
+# Enter project folder
+cd aRandomPage1
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
